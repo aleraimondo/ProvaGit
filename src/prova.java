@@ -3,7 +3,7 @@ public class prova {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Ciao/n");
+		System.out.println("Welcome/n");
 
 	}
 
